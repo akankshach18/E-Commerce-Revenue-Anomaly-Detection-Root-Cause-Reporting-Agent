@@ -199,13 +199,3 @@ This confirms the threshold-alert logic in Step 6 fires correctly on the planted
 | `SMTP_PORT` | Optional | Defaults to `465` |
 
 ---
-
-## 8. Resume-Bullet Draft (fill in real numbers once built)
-
-> Built an end-to-end AI-powered BI agent that ingests e-commerce transaction data,
-> computes 12 KPIs (revenue, profitability, and marketing-efficiency metrics) across
-> region/product/channel dimensions in MySQL, detects statistical anomalies (z-score),
-> performs automated root-cause breakdown, and uses Claude to generate executive-ready
-> natural-language summaries delivered via scheduled HTML email — orchestrated
-> end-to-end with Apache Airflow alongside a live Power BI dashboard reading the same
-> data layer.
